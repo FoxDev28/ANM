@@ -1,6 +1,4 @@
-# Encoded By PyEncryptor
-# A Product Of XRootSec
-# https://github.com/XRootSec
+# kenapa mau nyolong hehehehe
 
 import marshal
 
